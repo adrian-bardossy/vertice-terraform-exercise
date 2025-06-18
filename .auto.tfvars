@@ -1,1 +1,5 @@
-aws-region = "eu-west-1"
+aws_region = "eu-west-1"
+instance_key_name = "vertice-interview-instance-KP"
+public_ip = "85.193.39.197/32"
+instance_name = "vertice-interview-instance"
+vpc_name = "vertice-vpc"
