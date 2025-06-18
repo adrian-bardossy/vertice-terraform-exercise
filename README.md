@@ -1,1 +1,0 @@
-# vertice-terraform-exercise
